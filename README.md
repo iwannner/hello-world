@@ -1,2 +1,2 @@
 # hello-world
-this is simple "hello-world"
+this is a simple "hello-world"
